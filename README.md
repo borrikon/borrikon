@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Borys</h1>
-<h3 align="center">Frontend developer from Ukraine. Currently lokated in Germany.</h3>
+<h3 align="center">Frontend developer!</h3>
 
 - 📫 How to reach me **borrikon@gmail.com**
 
